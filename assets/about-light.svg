@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-label="Sobre mim em JSON: basquete, academia, música, animes e séries" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title>Sobre mim em JSON: basquete, academia, música, animes e séries</title>
+
+<rect x="0.5" y="0.5" width="859" height="399" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<path d="M12.5 0.5 H847.5 A12 12 0 0 1 859.5 12.5 V36 H0.5 V12.5 A12 12 0 0 1 12.5 0.5 Z" fill="#eaeef2"/>
+<line x1="0.5" y1="36" x2="859.5" y2="36" stroke="#d0d7de"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="430.0" y="23" text-anchor="middle" font-size="13" fill="#59636e">~/sobre-mim.json — cat</text>
+<clipPath id="ac0"><rect x="30" y="54" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0450;0.0480;0.0510;0.0540;0.0570;0.0600;0.0630;0.0660;0.0690;0.0720;0.0750;0.0780;0.0810;0.0840;0.0870;0.0900;0.0930;0.0960;0.0990" values="0;16.8;28.2;36.6;45.0;53.4;61.8;70.2;78.6;87.0;95.4;103.8;112.2;120.6;129.0;137.4;145.8;154.2;162.6;171.0"/></rect></clipPath>
+<g clip-path="url(#ac0)"><text x="32.0" y="70" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text>
+<text x="48.8" y="70" font-size="14" fill="#1f2328" textLength="151.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">cat sobre-mim.json</text></g>
+<clipPath id="ac1"><rect x="30" y="83" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1355" values="0;12.4"/></rect></clipPath>
+<g clip-path="url(#ac1)"><text x="32.0" y="99" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">{</text></g>
+<clipPath id="ac2"><rect x="30" y="108" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1495" values="0;289.6"/></rect></clipPath>
+<g clip-path="url(#ac2)"><text x="48.8" y="124" font-size="14" fill="#0969da" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;nome&quot;</text>
+<text x="99.2" y="124" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="116.0" y="124" font-size="14" fill="#1a7f37" textLength="193.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;Mateus Lima de Macedo&quot;</text>
+<text x="309.2" y="124" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text></g>
+<clipPath id="ac3"><rect x="30" y="133" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1635" values="0;222.4"/></rect></clipPath>
+<g clip-path="url(#ac3)"><text x="48.8" y="149" font-size="14" fill="#0969da" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;base&quot;</text>
+<text x="99.2" y="149" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="116.0" y="149" font-size="14" fill="#1a7f37" textLength="126.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;Joinville, SC&quot;</text>
+<text x="242.0" y="149" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text></g>
+<clipPath id="ac4"><rect x="30" y="158" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1775" values="0;457.6"/></rect></clipPath>
+<g clip-path="url(#ac4)"><text x="48.8" y="174" font-size="14" fill="#0969da" textLength="84.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;formacao&quot;</text>
+<text x="132.8" y="174" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="149.6" y="174" font-size="14" fill="#1a7f37" textLength="327.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;Técnico em Informática · IFC Araquari&quot;</text>
+<text x="477.2" y="174" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text></g>
+<clipPath id="ac5"><rect x="30" y="183" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1915" values="0;625.6"/></rect></clipPath>
+<g clip-path="url(#ac5)"><text x="48.8" y="199" font-size="14" fill="#0969da" textLength="134.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;fora_do_codigo&quot;</text>
+<text x="183.2" y="199" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="200.0" y="199" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[</text>
+<text x="208.4" y="199" font-size="14" fill="#1a7f37" textLength="84.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;basquete&quot;</text>
+<text x="292.4" y="199" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="309.2" y="199" font-size="14" fill="#1a7f37" textLength="84.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;academia&quot;</text>
+<text x="393.2" y="199" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="410.0" y="199" font-size="14" fill="#1a7f37" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;música&quot;</text>
+<text x="477.2" y="199" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="494.0" y="199" font-size="14" fill="#1a7f37" textLength="142.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;animes &amp; séries&quot;</text>
+<text x="636.8" y="199" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">]</text>
+<text x="645.2" y="199" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text></g>
+<clipPath id="ac6"><rect x="30" y="208" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2055" values="0;491.2"/></rect></clipPath>
+<g clip-path="url(#ac6)"><text x="48.8" y="224" font-size="14" fill="#0969da" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;aprendendo&quot;</text>
+<text x="149.6" y="224" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="166.4" y="224" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[</text>
+<text x="174.8" y="224" font-size="14" fill="#1a7f37" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;TypeScript&quot;</text>
+<text x="275.6" y="224" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="292.4" y="224" font-size="14" fill="#1a7f37" textLength="210.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;arquitetura de software&quot;</text>
+<text x="502.4" y="224" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">]</text>
+<text x="510.8" y="224" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text></g>
+<clipPath id="ac7"><rect x="30" y="233" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2195" values="0;499.6"/></rect></clipPath>
+<g clip-path="url(#ac7)"><text x="48.8" y="249" font-size="14" fill="#0969da" textLength="84.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;fun_fact&quot;</text>
+<text x="132.8" y="249" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="149.6" y="249" font-size="14" fill="#1a7f37" textLength="369.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;meu chat em tempo real já mudou de projeto&quot;</text>
+<text x="519.2" y="249" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text></g>
+<clipPath id="ac8"><rect x="30" y="258" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2335" values="0;398.8"/></rect></clipPath>
+<g clip-path="url(#ac8)"><text x="48.8" y="274" font-size="14" fill="#0969da" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;procurando&quot;</text>
+<text x="149.6" y="274" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="166.4" y="274" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[</text>
+<text x="174.8" y="274" font-size="14" fill="#1a7f37" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;estágio&quot;</text>
+<text x="250.4" y="274" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="267.2" y="274" font-size="14" fill="#1a7f37" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;júnior&quot;</text>
+<text x="334.4" y="274" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="351.2" y="274" font-size="14" fill="#1a7f37" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;freela&quot;</text>
+<text x="418.4" y="274" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">]</text></g>
+<clipPath id="ac9"><rect x="30" y="283" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2475" values="0;12.4"/></rect></clipPath>
+<g clip-path="url(#ac9)"><text x="32.0" y="299" font-size="14" fill="#59636e" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">}</text></g>
+<clipPath id="ac10"><rect x="30" y="312" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2650" values="0;16.8"/></rect></clipPath>
+<g clip-path="url(#ac10)"><text x="32.0" y="328" font-size="14" fill="#59636e" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text></g>
+<rect width="8.4" height="17" fill="#1a7f37" opacity="0.85"><animate attributeName="x" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0450;0.0480;0.0510;0.0540;0.0570;0.0600;0.0630;0.0660;0.0690;0.0720;0.0750;0.0780;0.0810;0.0840;0.0870;0.0900;0.0930;0.0960;0.0990;0.2650" values="32.0;48.8;57.2;65.6;74.0;82.4;90.8;99.2;107.6;116.0;124.4;132.8;141.2;149.6;158.0;166.4;174.8;183.2;191.6;200.0;48.8"/><animate attributeName="y" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0450;0.0480;0.0510;0.0540;0.0570;0.0600;0.0630;0.0660;0.0690;0.0720;0.0750;0.0780;0.0810;0.0840;0.0870;0.0900;0.0930;0.0960;0.0990;0.2650" values="-112.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;58.0;316.0"/><animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

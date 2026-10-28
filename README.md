@@ -1,103 +1,85 @@
-<!-- ============ CABEÇALHO ANIMADO ============ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mateus%20Lima%20de%20Macedo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20em%20in%C3%ADcio%20de%20carreira&descSize=18&descAlignY=58" alt="Cabeçalho" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Mateus+%F0%9F%91%8B;T%C3%A9cnico+em+Inform%C3%A1tica+no+IFC+Araquari;Vue+%7C+React+%7C+Django+%7C+TypeScript;Procurando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Texto animado" />
-</a>
-
-<br/>
-
-![Visitas](https://komarev.com/ghpvc/?username=mateusLimadeMacedo&label=Visitas+no+perfil&color=7c3aed&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/mateusLimadeMacedo?label=Seguidores&style=for-the-badge&logo=github&color=6d28d9)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Finalizando o **3º ano do Técnico em Informática** no **IFC – Campus Araquari**
-- 💻 Desenvolvo aplicações **front-end e back-end**, com foco em interfaces com **Vue** e **React** e APIs com **Python/Django**
-- 🤝 Gosto de trabalhar em equipe: já participei de projetos colaborativos com **Pull Requests, code review e Git Flow**
-- 🌱 Sempre aprendendo, agora aprofundando **TypeScript** e boas práticas de arquitetura
-- 🚀 **Em busca da minha primeira oportunidade (estágio ou júnior)** para crescer e contribuir com um time de verdade
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,py,django,git,github,vscode&perline=11" alt="Tecnologias" />
-
-</div>
-
-| Área | Tecnologias |
-|------|-------------|
-| **Front-end** | Vue.js, React, TypeScript, JavaScript, HTML5, CSS3 |
-| **Back-end** | Python, Django |
-| **Ferramentas** | Git, GitHub, VS Code |
-
----
-
-## 📂 Projetos em equipe
-
-| Projeto | O que eu fiz | Tecnologias |
-|---------|--------------|-------------|
-| [**DreamTeam-2k26**](https://github.com/DreamTeam-2k26) | Implementei o **chat** da aplicação, tanto no [backend](https://github.com/DreamTeam-2k26/backend) quanto no [frontend](https://github.com/DreamTeam-2k26/frontend), além de ajustes visuais | Vue, JavaScript |
-| [**Fábrica de Software IFC – Hackathon**](https://github.com/fabricadesoftware-ifc/fabricaHackathon_frontEnd) | Participei da criação da base do projeto front-end | Vue, TypeScript |
-
-> 💡 Veja meus repositórios fixados abaixo e a aba [Repositories](https://github.com/mateusLimadeMacedo?tab=repositories) para mais projetos.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusLimadeMacedo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusLimadeMacedo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mateusLimadeMacedo&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusLimadeMacedo&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" width="100%" />
-
-</div>
-
----
-
-## 📫 Vamos conversar?
-
-<div align="center">
-
-<!-- Troque SEU-LINKEDIN e SEU-EMAIL pelos seus dados reais -->
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-<a href="https://github.com/mateusLimadeMacedo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Rodapé"/>
-
-</div>
-
 <!--
-**mateusLimadeMacedo/mateusLimadeMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Perfil do GitHub de Mateus Lima de Macedo
+  Todas as animações são SVGs próprios, guardados na pasta assets/.
+  Eles trocam sozinhos entre tema claro e escuro, conforme o tema de quem visita.
 -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Terminal animado: Mateus Lima de Macedo, desenvolvedor full stack, open to work">
+</picture>
+
+<br/>
+
+<sub>🇧🇷 Português &nbsp;·&nbsp; <a href="#-english-version">🇺🇸 English version below</a></sub>
+
+</div>
+
+## `~/sobre-mim`
+
+Oi, eu sou o **Mateus** 👋 Estou finalizando o **Técnico em Informática no IFC – Campus Araquari** e desenvolvo aplicações **full stack**: interfaces com **Vue** e **React**, APIs com **Python e Django**.
+
+Meu forte é trabalhar em time. Nos projetos da escola e da Fábrica de Software eu organizo o trabalho em branches, abro **Pull Requests** e faço **code review**. Uma das partes que mais gostei de construir foi um **chat em tempo real** (com anexos e indicador de quem está online), que acabou indo de um projeto para outro.
+
+🚀 **Procuro minha primeira oportunidade como dev**: estágio, júnior ou freela, remoto, híbrido ou presencial.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img src="assets/about-light.svg" width="100%" alt="Arquivo sobre-mim.json: Joinville SC, curto basquete, academia, música, animes e séries; aprendendo TypeScript e arquitetura de software">
+</picture>
+
+## `$ ls ~/stack`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Front-end: Vue, React, TypeScript, JavaScript, HTML, CSS. Back-end: Python, Django. Ferramentas: Git, GitHub, VS Code">
+</picture>
+
+## `$ ls ~/projetos`
+
+<p align="center">
+  <a href="https://github.com/ReadMore-Org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-readmore-dark.svg"><img src="assets/card-readmore-light.svg" width="49%" alt="ReadMore: livraria online em Vue e Django; fiz o chat em tempo real"></picture></a>
+  <a href="https://github.com/DreamTeam-2k26"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fluxo-dark.svg"><img src="assets/card-fluxo-light.svg" width="49%" alt="Fluxo, da DreamTeam-2k26: fiz o chat no back-end e no front em Vue e a integração read.AI"></picture></a>
+  <a href="https://github.com/fabricadesoftware-ifc/fabricaHackathon_frontEnd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-hackathon-dark.svg"><img src="assets/card-hackathon-light.svg" width="49%" alt="Hackathon da Fábrica de Software do IFC: criação da base do front-end em Vue e TypeScript"></picture></a>
+  <!-- TROQUE o link abaixo pelo endereço da organização ou do repositório do Alugaê -->
+  <a href="https://github.com/mateusLimadeMacedo?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-alugae-dark.svg"><img src="assets/card-alugae-light.svg" width="49%" alt="Alugaê: plataforma de aluguel feita em equipe"></picture></a>
+</p>
+
+## `$ git log --graph`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusLimadeMacedo/mateusLimadeMacedo/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/mateusLimadeMacedo/mateusLimadeMacedo/output/snake-light.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições do Mateus">
+</picture>
+
+## `$ contato`
+
+<p align="center">
+  <!-- TROQUE SEU-LINKEDIN pelo final do link do seu perfil (linkedin.com/in/...) -->
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="56" alt="LinkedIn"></picture></a>
+  &nbsp;
+  <a href="mailto:mateuslimamacedo2008@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="56" alt="E-mail: mateuslimamacedo2008@gmail.com"></picture></a>
+</p>
+
+---
+
+### 🇺🇸 English version
+
+Hi, I'm **Mateus** 👋 a **full stack developer** from **Joinville, Brazil**, finishing my **IT technical degree at IFC – Campus Araquari**.
+
+- 💻 I build web apps with **Vue**, **React** and **TypeScript** on the front end and **Python + Django** on the back end.
+- 🤝 I work well in teams: branches, **Pull Requests** and **code review** are part of my daily routine.
+- 💬 Favorite thing I've built: a **real-time chat** with attachments and online presence, which I later brought into another project.
+- 🏀 Off the keyboard: basketball, the gym, music, anime and series.
+- 🚀 **Open to internships, junior roles and freelance work**: remote, hybrid or on-site. Feel free to reach out!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="exit: valeu pela visita! Thanks for stopping by!">
+</picture>
+
+</div>

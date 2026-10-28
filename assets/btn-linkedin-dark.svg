@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="56" viewBox="0 0 300 56" role="img" aria-label="linkedin" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title>linkedin</title>
+
+<rect x="0.5" y="0.5" width="299" height="55" rx="10" fill="#010409" stroke="#3fb950" stroke-opacity="0.7"/>
+<rect x="0.5" y="0.5" width="299" height="55" rx="10" fill="#3fb950" fill-opacity="0"><animate attributeName="fill-opacity" values="0;0.10;0" dur="2.6s" repeatCount="indefinite"/></rect>
+<text x="20" y="25" font-size="15" font-weight="700" fill="#3fb950">&gt; linkedin</text>
+<text x="20" y="44" font-size="12" fill="#7d8590">Mateus Lima de Macedo</text>
+<rect x="112.0" y="13" width="9" height="15" fill="#3fb950"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
