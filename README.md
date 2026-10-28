@@ -47,12 +47,6 @@ Link para o projeto Fluxo: https://fluxo-beige-three.vercel.app/
   <a href="https://github.com/mateusLimadeMacedo?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-alugae-dark.svg"><img src="assets/card-alugae-light.svg" width="49%" alt="Alugaê: plataforma de aluguel feita em equipe"></picture></a>
 </p>
 
-## `$ git log --graph`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusLimadeMacedo/mateusLimadeMacedo/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/mateusLimadeMacedo/mateusLimadeMacedo/output/snake-light.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições do Mateus">
-</picture>
 
 ## `$ ping mateus`
 
