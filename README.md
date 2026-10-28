@@ -19,11 +19,11 @@
 
 ## `~/sobre-mim`
 
-Eu sou o **Mateus**  Estou finalizando o **Técnico em Informática no IFC – Campus Araquari** e desenvolvo aplicações **full stack**: interfaces com **Vue** e **React**, APIs com **Python e Django**.
+Eu sou o **Mateus**, estou finalizando o **Técnico em Informática no IFC – Campus Araquari** e desenvolvo aplicações **full stack**: interfaces com **Vue**, **typescript** e APIs com **Python e Django**.
 
-Meu forte é trabalhar em time. Nos projetos da escola e da Fábrica de Software eu organizo o trabalho em branches, abro **Pull Requests** e faço **code review**. Uma das partes que mais gostei de construir foi um **chat em tempo real** (com anexos e indicador de quem está online), que acabou indo de um projeto para outro.
+gosto de trabalhar com times. Tenho alguns projetos do Técnico e particicipei de alguns da Fábrica de Software. Uma dos projetos que mais gostei de construir foi o **Fluxo** (um projeto que fiz com a minha equipe em 24hrs em um hackaton. Ele conta com um chat em tempo real, chamadas de víedeo, transcrição de audio e algumas outras funções).
 
-⚡ Gosto de pegar uma feature do zero e levar até o merge: modelagem e API no **Django**, tela no **Vue** e Pull Request revisado pelo time.
+Link para o projeto Fluxo: https://fluxo-beige-three.vercel.app/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
@@ -67,13 +67,12 @@ Meu forte é trabalhar em time. Nos projetos da escola e da Fábrica de Software
 
 ### 🇺🇸 English version
 
-Hi, I'm **Mateus** 👋 a **full stack developer** from **Joinville, Brazil**, finishing my **IT technical degree at IFC – Campus Araquari**.
+I'm **Mateus** a **full stack developer** from **Joinville, Brazil**, finishing my **IT technical degree at IFC – Campus Araquari**.
 
-- 💻 I build web apps with **Vue**, **React** and **TypeScript** on the front end and **Python + Django** on the back end.
-- 🤝 I work well in teams: branches, **Pull Requests** and **code review** are part of my daily routine.
-- 💬 Favorite thing I've built: a **real-time chat** with attachments and online presence, which I later brought into another project.
-- 🏀 Off the keyboard: basketball, the gym, music, anime and series.
-- ⚡ I enjoy taking a feature from zero to merge: **Django** models and API, **Vue** screens and a Pull Request reviewed by the team.
+- 💻 I build web apps with **Vue** and **TypeScript** on the front end and **Python + Django** on the back end.
+- 🤝 I work well in teams.
+- 💬 Favorite thing I've built: my projet named **fluxo** (https://fluxo-beige-three.vercel.app/). I builded it with my squade in 24 hours on a hackaton.
+
 
 <div align="center">
 
