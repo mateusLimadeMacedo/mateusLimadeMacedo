@@ -8,7 +8,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Terminal animado: Mateus Lima de Macedo, desenvolvedor full stack, open to work">
+  <img src="assets/header-light.svg" width="100%" alt="Terminal animado: Mateus Lima de Macedo, desenvolvedor full stack">
 </picture>
 
 <br/>
@@ -23,7 +23,7 @@ Oi, eu sou o **Mateus** 👋 Estou finalizando o **Técnico em Informática no I
 
 Meu forte é trabalhar em time. Nos projetos da escola e da Fábrica de Software eu organizo o trabalho em branches, abro **Pull Requests** e faço **code review**. Uma das partes que mais gostei de construir foi um **chat em tempo real** (com anexos e indicador de quem está online), que acabou indo de um projeto para outro.
 
-🚀 **Procuro minha primeira oportunidade como dev**: estágio, júnior ou freela, remoto, híbrido ou presencial.
+⚡ Gosto de pegar uma feature do zero e levar até o merge: modelagem e API no **Django**, tela no **Vue** e Pull Request revisado pelo time.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
@@ -54,7 +54,7 @@ Meu forte é trabalhar em time. Nos projetos da escola e da Fábrica de Software
   <img src="https://raw.githubusercontent.com/mateusLimadeMacedo/mateusLimadeMacedo/output/snake-light.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições do Mateus">
 </picture>
 
-## `$ contato`
+## `$ ping mateus`
 
 <p align="center">
   <!-- TROQUE SEU-LINKEDIN pelo final do link do seu perfil (linkedin.com/in/...) -->
@@ -73,7 +73,7 @@ Hi, I'm **Mateus** 👋 a **full stack developer** from **Joinville, Brazil**, f
 - 🤝 I work well in teams: branches, **Pull Requests** and **code review** are part of my daily routine.
 - 💬 Favorite thing I've built: a **real-time chat** with attachments and online presence, which I later brought into another project.
 - 🏀 Off the keyboard: basketball, the gym, music, anime and series.
-- 🚀 **Open to internships, junior roles and freelance work**: remote, hybrid or on-site. Feel free to reach out!
+- ⚡ I enjoy taking a feature from zero to merge: **Django** models and API, **Vue** screens and a Pull Request reviewed by the team.
 
 <div align="center">
 

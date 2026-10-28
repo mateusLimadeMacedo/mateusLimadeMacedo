@@ -54,16 +54,16 @@
 <text x="132.8" y="249" font-size="14" fill="#7d8590" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
 <text x="149.6" y="249" font-size="14" fill="#3fb950" textLength="369.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;meu chat em tempo real já mudou de projeto&quot;</text>
 <text x="519.2" y="249" font-size="14" fill="#7d8590" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,</text></g>
-<clipPath id="ac8"><rect x="30" y="258" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2335" values="0;398.8"/></rect></clipPath>
-<g clip-path="url(#ac8)"><text x="48.8" y="274" font-size="14" fill="#58a6ff" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;procurando&quot;</text>
-<text x="149.6" y="274" font-size="14" fill="#7d8590" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
-<text x="166.4" y="274" font-size="14" fill="#7d8590" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[</text>
-<text x="174.8" y="274" font-size="14" fill="#3fb950" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;estágio&quot;</text>
-<text x="250.4" y="274" font-size="14" fill="#7d8590" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
-<text x="267.2" y="274" font-size="14" fill="#3fb950" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;júnior&quot;</text>
-<text x="334.4" y="274" font-size="14" fill="#7d8590" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
-<text x="351.2" y="274" font-size="14" fill="#3fb950" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;freela&quot;</text>
-<text x="418.4" y="274" font-size="14" fill="#7d8590" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">]</text></g>
+<clipPath id="ac8"><rect x="30" y="258" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2335" values="0;709.6"/></rect></clipPath>
+<g clip-path="url(#ac8)"><text x="48.8" y="274" font-size="14" fill="#58a6ff" textLength="142.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;curte_construir&quot;</text>
+<text x="191.6" y="274" font-size="14" fill="#7d8590" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">: </text>
+<text x="208.4" y="274" font-size="14" fill="#7d8590" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[</text>
+<text x="216.8" y="274" font-size="14" fill="#3fb950" textLength="176.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;chats em tempo real&quot;</text>
+<text x="393.2" y="274" font-size="14" fill="#7d8590" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="410.0" y="274" font-size="14" fill="#3fb950" textLength="142.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;APIs com Django&quot;</text>
+<text x="552.8" y="274" font-size="14" fill="#7d8590" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="569.6" y="274" font-size="14" fill="#3fb950" textLength="159.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;interfaces em Vue&quot;</text>
+<text x="729.2" y="274" font-size="14" fill="#7d8590" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">]</text></g>
 <clipPath id="ac9"><rect x="30" y="283" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2475" values="0;12.4"/></rect></clipPath>
 <g clip-path="url(#ac9)"><text x="32.0" y="299" font-size="14" fill="#7d8590" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">}</text></g>
 <clipPath id="ac10"><rect x="30" y="312" width="0" height="22"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2650" values="0;16.8"/></rect></clipPath>
