@@ -65,7 +65,7 @@ I'm **Mateus** a **full stack developer** from **Joinville, Brazil**, finishing 
 
 - 💻 I build web apps with **Vue** and **TypeScript** on the front end and **Python + Django** on the back end.
 - 🤝 I work well in teams.
-- 💬 Favorite thing I've built: my projet named **fluxo** (https://fluxo-beige-three.vercel.app/). I builded it with my squade in 24 hours on a hackaton.
+- 💬 Favorite thing I've built: my projet named **fluxo** (https://fluxo-beige-three.vercel.app/). I builded it with my squad in 24 hours on a hackaton.
 
 
 <div align="center">
