@@ -25,10 +25,10 @@ gosto de trabalhar com times. Tenho alguns projetos do Técnico e particicipei d
 
 Link para o projeto Fluxo: https://fluxo-beige-three.vercel.app/
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
   <img src="assets/about-light.svg" width="100%" alt="Arquivo sobre-mim.json: Joinville SC, curto basquete, academia, música, animes e séries; aprendendo TypeScript e arquitetura de software">
-</picture>
+</picture>-->
 
 ## `$ ls ~/stack`
 
