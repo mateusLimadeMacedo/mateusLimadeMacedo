@@ -19,7 +19,7 @@
 
 ## `~/sobre-mim`
 
-Oi, eu sou o **Mateus** 👋 Estou finalizando o **Técnico em Informática no IFC – Campus Araquari** e desenvolvo aplicações **full stack**: interfaces com **Vue** e **React**, APIs com **Python e Django**.
+Eu sou o **Mateus**  Estou finalizando o **Técnico em Informática no IFC – Campus Araquari** e desenvolvo aplicações **full stack**: interfaces com **Vue** e **React**, APIs com **Python e Django**.
 
 Meu forte é trabalhar em time. Nos projetos da escola e da Fábrica de Software eu organizo o trabalho em branches, abro **Pull Requests** e faço **code review**. Uma das partes que mais gostei de construir foi um **chat em tempo real** (com anexos e indicador de quem está online), que acabou indo de um projeto para outro.
 
